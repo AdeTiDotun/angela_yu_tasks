@@ -2,50 +2,37 @@ body {
    margin: 0;
     text-align: center;
 }
+
 h1 {
     margin: 0;
-    margin: 0 auto 0 auto;
+    margin: 50 auto 0 auto;
     font-family: 'Freehand', cursive;
     font-size: 5rem;
     color: #66BFBF;
 }
+
 h2 {
     font-family: 'Saira Extra Condensed', sans-serif;
     font-size: 2.5rem;
     color: #66BFBF;
     font-weight: normal;
-    line-height: 2px;
+    line-height: 10px;
+    padding: 20px 0 40px 0;
 }
+
 #Box-1 {
      background-color: #E4F9F5;
     padding-top: 100px;
     position: relative;
 }
+
 #cloud {
     position: absolute;
     left:200px ;
     margin: 0;
 }
+
 #top-cloud {
     position: relative;
     left: 400px;
-}
-.profile {
-    padding-bottom: 100px;
-}
-.profilepicture {
-    height: 200px;
-    width: 150px;
-    float: left;
-}
-.profile1 {
-    border: 0;
-}
-
-.web {
-    height: 150px;
-    width: 150px;
-}
-.bottom-container {
-    background-color: #11999E;
 }
