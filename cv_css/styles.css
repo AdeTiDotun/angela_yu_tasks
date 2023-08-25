@@ -4,7 +4,6 @@ body {
 }
 
 h1 {
-    margin: 0;
     margin: 50 auto 0 auto;
     font-family: 'Freehand', cursive;
     font-size: 5rem;
@@ -17,7 +16,7 @@ h2 {
     color: #66BFBF;
     font-weight: normal;
     line-height: 10px;
-    padding: 20px 0 40px 0;
+    padding: 20px 0 10px 0;
 }
 
 #Box-1 {
@@ -26,6 +25,12 @@ h2 {
     position: relative;
 }
 
+.middle-container {
+    margin-top: 30px;
+}
+.profile img {
+    border-radius: 100px;
+}
 #cloud {
     position: absolute;
     left:200px ;
@@ -35,4 +40,18 @@ h2 {
 #top-cloud {
     position: relative;
     left: 400px;
+}
+
+.skill-row {
+    width: 50%;
+    text-align: left;
+    margin: 50px auto 50px auto;
+    line-height: 2;
+}
+
+.web-dev {
+    width: 25%;
+    border-radius: 100px;
+    float: left;
+    margin-right: 30px;
 }
