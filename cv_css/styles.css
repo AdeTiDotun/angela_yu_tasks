@@ -84,7 +84,7 @@ h3 {
     font-family: 'Saira Extra Condensed', sans-serif;
     color: #e4eef5;
     font-size: 21px;
-    padding: 10px 20px 10px 20px;
+    padding: 10px 10px 10px 10px;
     text-decoration: none;
   }
   
@@ -96,4 +96,14 @@ h3 {
     background-image: -o-linear-gradient(top, #1599eb, #95cbf0);
     background-image: linear-gradient(to bottom, #1599eb, #95cbf0);
     text-decoration: none;
+  }
+
+  .bottom-container {
+    background-color: #66BFBF;
+    padding: 20px 0;
+    margin-top: 50px;
+  }
+
+  .footer-link {
+    margin: 40px;
   }
