@@ -5,7 +5,7 @@ body {
 
 hr {
     width: 10%;
-    padding-bottom: 6px;
+    padding-bottom: 1px dotted;
 }
 
 h1 {
@@ -102,6 +102,11 @@ h3 {
     background-color: #66BFBF;
     padding: 20px 0;
     margin-top: 50px;
+  }
+
+  .bottom-container p {
+    font-size: 11px;
+    color: #E4F9F5;
   }
 
   .footer-link {
