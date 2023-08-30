@@ -106,4 +106,10 @@ h3 {
 
   .footer-link {
     margin: 40px;
+    color: #3498db;
+    font-size: bold;
+  }
+
+  .footer-link:hover {
+    color: blue;
   }
