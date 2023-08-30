@@ -5,7 +5,7 @@ body {
 
 hr {
     width: 10%;
-    padding: 1px;
+    padding-bottom: 6px;
 }
 
 h1 {
@@ -75,7 +75,7 @@ h3 {
     -webkit-border-radius: 28;
     -moz-border-radius: 28;
     border-radius: 28px;
-    font-family: Arial;
+    font-family: 'Saira Extra Condensed', sans-serif;
     color: #e4eef5;
     font-size: 21px;
     padding: 10px 20px 10px 20px;
