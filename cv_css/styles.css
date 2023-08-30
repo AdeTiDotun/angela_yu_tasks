@@ -37,6 +37,12 @@ h3 {
 .middle-container {
     margin-top: 30px;
 }
+
+.profile {
+    width: 40%;
+    margin: auto;
+}
+
 .profile img {
     border-radius: 100px;
 }
