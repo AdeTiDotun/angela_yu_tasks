@@ -1,4 +1,8 @@
 
+body {
+    font-family: "Montserrat";
+}
+
 #title {
     background: #f3075d;
 }
@@ -8,6 +12,7 @@ h1 {
     font-size: 3rem;
     line-height: 1.5;
     color: #fff;
+    margin-bottom: 150px;
 }
 
 .container-fluid {
@@ -16,6 +21,8 @@ h1 {
 
 .navbar-brand {
     padding-left: 0;
+    font-size: 2rem;
+    font-weight: bold;
 }
 
 .row {
@@ -24,4 +31,13 @@ h1 {
 
 .nav-link {
     color: #fff;
+    margin: 0 3% 0 3%;
+}
+
+.download-button {
+    margin-right: 50px;
+}
+
+.container-image {
+    transform: rotate(30deg);
 }
