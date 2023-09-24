@@ -38,3 +38,15 @@ h1 {
     width: 60%;
     transform: rotate(30deg);
 }
+
+.features-row {
+    padding: 50px 100px;
+}
+
+.features-col {
+    text-align: -webkit-center;
+}
+
+.features-col p {
+    width: 50%;
+}
