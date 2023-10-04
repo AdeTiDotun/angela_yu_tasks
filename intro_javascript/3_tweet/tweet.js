@@ -1,1 +1,1 @@
-prompt ("Your message");
+var tweet = prompt ("Your message");
