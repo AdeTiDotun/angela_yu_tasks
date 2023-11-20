@@ -22,12 +22,6 @@ h2 {
     line-height: 1.5;
 }
 
-h3 {
-    color: #fff;
-    font-family: "Montserrat";
-    font-size: 2rem;
-
-}
 .container-fluid {
     padding: 3% 15%;
 }
@@ -53,7 +47,7 @@ h3 {
 }
 
 #features {
-    padding: 50px 50px;
+    padding: 7% 15%;
 }
 
 .features-row {
